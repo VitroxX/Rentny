@@ -25,3 +25,8 @@ Rentny is licensed under [Mozilla Public License 2.0](https://opensource.org/lic
 * Vitrox - Coding
 * MySql - Data connections
 * MaterialSkin - UI Design
+
+# Other stuff
++ [Free MySQL Hosting](https://remotemysql.com)
++ [Discord auto-join System](https://v3rmillion.net/showthread.php?tid=841010)
++ [Exploit sources](https://github.com/rakion99/)
