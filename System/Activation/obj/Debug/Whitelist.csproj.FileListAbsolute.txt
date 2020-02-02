@@ -1,0 +1,16 @@
+C:\Users\Ádám\Desktop\Activead\Activation\obj\Debug\Whitelist.csprojAssemblyReference.cache
+C:\Users\Ádám\Desktop\Activead\Activation\obj\Debug\Activation.Whitelist.resources
+C:\Users\Ádám\Desktop\Activead\Activation\obj\Debug\Activation.Form2.resources
+C:\Users\Ádám\Desktop\Activead\Activation\obj\Debug\NemesisExploit.Properties.Resources.resources
+C:\Users\Ádám\Desktop\Activead\Activation\obj\Debug\Whitelist.csproj.GenerateResource.cache
+C:\Users\Ádám\Desktop\Activead\Activation\obj\Debug\Nemesis.exe
+C:\Users\Ádám\Desktop\Activead\Activation\obj\Debug\Nemesis.pdb
+C:\Users\Ádám\Desktop\Activead\Activation\bin\Debug\Nemesis.exe.config
+C:\Users\Ádám\Desktop\Activead\Activation\bin\Debug\Nemesis.exe
+C:\Users\Ádám\Desktop\Activead\Activation\bin\Debug\Nemesis.pdb
+C:\Users\Ádám\Desktop\Activead\Activation\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ádám\Desktop\Activead\Activation\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ádám\Desktop\Activead\Activation\bin\Debug\MaterialSkin.dll
+C:\Users\Ádám\Desktop\Activead\Activation\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ádám\Desktop\Activead\Activation\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ádám\Desktop\Activead\Activation\obj\Debug\Whitelist.csproj.CopyComplete
