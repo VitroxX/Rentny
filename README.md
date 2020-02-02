@@ -1,5 +1,12 @@
 # Rentny - [Latest release](https://github.com/VitroxX/Rentny/releases)
 
+# Requrements
+- basic knowledge of C# and visual studio
+- MySQL minimal knowledge
+
+# Help
+* Vitrox#0001
+
 # About updates
 I'll be sure to push updates so look at this github after a while.
 
@@ -9,6 +16,7 @@ I'll be sure to push updates so look at this github after a while.
 * Smooth login - better easier login
 * Some bug fixing - if i find bugs i'll fix em
 * Remember password/key - a system which remembers you that you logged in and doesn't ask for the password twice.
+* Trying to make it so it's more easier way to use this
 
 # License
 Rentny is licensed under [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0).
